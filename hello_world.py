@@ -6,5 +6,5 @@ Date: 01/10/2024
 
 print("Hello World!")
 print("Bonjour tout le monde!")
-#pronounced: tah-sih
+#pronounced: tahn-sih
 print ("tanisi!")
