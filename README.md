@@ -1,6 +1,6 @@
 # Module 1 Demonstration
 
-## Description 1
+## Description
 Hello world application
 Displays 'Hello World!' in two languages to the console.
 
