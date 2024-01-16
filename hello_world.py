@@ -1,5 +1,5 @@
 """
-Description: Hello world display program
+Description: Hello world display program in multiple languages.
 Author: Nathan Ascano
 Date: 01/10/2024
 """
