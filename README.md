@@ -2,7 +2,7 @@
 
 ## Description
 Hello world application
-Displays 'Hello World!' in multiple languages to the console.
+Displays 'Hello World!' in two languages to the console.
 
 ### Author
 Nathan Ascano
